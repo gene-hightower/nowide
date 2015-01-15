@@ -9,7 +9,7 @@
 #define NOWIDE_CONVERT_H_INCLUDED
 
 #include <string>
-#include <nowide/encoding_utf.hpp>
+#include "encoding_utf.hpp"
 
 
 namespace nowide {

@@ -9,8 +9,8 @@
 #define NOWIDE_FILEBUF_HPP
 
 #include <iosfwd>
-#include <nowide/config.hpp>
-#include <nowide/stackstring.hpp>
+#include "config.hpp"
+#include "stackstring.hpp"
 #include <fstream>
 #include <streambuf>
 #include <stdio.h>

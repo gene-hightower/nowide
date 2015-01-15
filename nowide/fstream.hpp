@@ -9,12 +9,12 @@
 #define NOWIDE_FSTREAM_INCLUDED_HPP
 
 #include <iosfwd>
-#include <nowide/config.hpp>
-#include <nowide/convert.hpp>
-#include <nowide/scoped_ptr.hpp>
+#include "config.hpp"
+#include "convert.hpp"
+#include "scoped_ptr.hpp"
 #include <fstream>
 #include <memory>
-#include <nowide/filebuf.hpp>
+#include "filebuf.hpp"
 
 
 ///

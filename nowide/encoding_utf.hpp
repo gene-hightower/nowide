@@ -8,8 +8,8 @@
 #ifndef NOWIDE_ENCODING_UTF_HPP_INCLUDED
 #define NOWIDE_ENCODING_UTF_HPP_INCLUDED
 
-#include <nowide/utf.hpp>
-#include <nowide/encoding_errors.hpp>
+#include "utf.hpp"
+#include "encoding_errors.hpp"
 #include <string>
 #include <iterator>
 #ifdef NOWIDE_MSVC

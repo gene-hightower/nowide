@@ -8,7 +8,7 @@
 #ifndef NOWIDE_ENCODING_ERRORS_HPP_INCLUDED
 #define NOWIDE_ENCODING_ERRORS_HPP_INCLUDED
 
-#include <nowide/config.hpp>
+#include "config.hpp"
 #ifdef NOWIDE_MSVC
 #  pragma warning(push)
 #  pragma warning(disable : 4275 4251 4231 4660)

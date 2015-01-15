@@ -7,7 +7,7 @@
 //
 #ifndef NOWIDE_DETAILS_WIDESTR_H_INCLUDED
 #define NOWIDE_DETAILS_WIDESTR_H_INCLUDED
-#include <nowide/convert.hpp>
+#include "convert.hpp"
 #include <string.h>
 #include <algorithm>
 
